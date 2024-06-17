@@ -1,5 +1,0 @@
-sceneSetups:
-- path: C:/Users/estef/MiPrimerTer/Assets/TerrenoyPers.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
